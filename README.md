@@ -1,0 +1,2 @@
+# Medixo-Online-doctor-appointment-system
+project is a smart appointment booking system that provides patients or any user an easy way of booking a doctor’s appointment online. This is a web based application that overcomes the issue of managing and booking appointments faced by users. The system is intended to be used in medical clinics in order to help improve appointment services and to save time and money.
